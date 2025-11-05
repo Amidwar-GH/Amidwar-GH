@@ -1,4 +1,4 @@
-![Amidwar Banner](https://raw.githubusercontent.com/Amidwar-GH/Amidwar-GH/main/Githubimg.png)
+![Amidwar Banner](https://raw.githubusercontent.com/Amidwar-GH/Amidwar-GH/main/BANNgh.png)
 
 <h2 align="left">👋 ¡Hola! Soy Amidwar</h2>
 
